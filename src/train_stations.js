@@ -82,5 +82,40 @@ export const stations = [
             latitude: 41.38735244003679,
             longitude: 2.1696782933036727
         }
+    },
+    {
+        name: "Barcelona - Sants",
+        coords: {
+            latitude: 41.37824413971283,
+            longitude: 2.140396773477032
+        }
+    },
+    {
+        name: "Hospitalet de Llobregat",
+        coords: {
+            latitude: 41.36183055918698,
+            longitude: 2.1087219618003055
+        }
+    },
+    {
+        name: "Cornella de Llobregat",
+        coords: {
+            latitude: 41.35797264810793,
+            longitude: 2.075525041067481
+        }
+    },
+    {
+        name: "Sant Joan Despi",
+        coords: {
+            latitude: 41.36658275316544,
+            longitude: 2.0752897728945084
+        }
+    },
+    {
+        name: "Sant Feliu de Llobregat",
+        coords: {
+            latitude: 41.384146294521926,
+            longitude: 2.0469807775469217
+        }
     }
 ];
